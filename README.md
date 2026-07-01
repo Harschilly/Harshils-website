@@ -11,15 +11,15 @@
             padding: 50px;
         }
 
-        .box {
-            background-color: rgb(255, 255, 255);
-            border: 1px solid rgb(200, 200, 200);
-            padding: 20px;
-            width: 400px;
-            margin: 0 auto;
+  .box {
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(200, 200, 200);
+        padding: 20px;
+        width: 400px;
+        margin: 0 auto;
         }
 
-         nav a {
+        nav a {
             margin: 0 10px;
             color: rgb(100, 100, 100);
             text-decoration: none;
